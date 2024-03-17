@@ -1,4 +1,3 @@
-# Project Team 22
 
 ## Project Title - GrocerSmart - A smart grocery store management application for store managers
 
